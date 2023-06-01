@@ -1,0 +1,15 @@
+抓cve
+
+關鍵字
+healthcare
+health
+medical device
+cloud
+bluetooth
+pii、phi、ephi
+infusion pump
+
+針對description抓設備資料
+
+設備哪一種類型(例如:xx器)
+
