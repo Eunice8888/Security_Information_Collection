@@ -1,2 +1,0 @@
-chatgpt-api(forPython)
-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
